@@ -1,4 +1,4 @@
-package ru.geekbrains.java;
+package ru.geekbrains.java.lesson2;
 
 public class Array {
 
@@ -52,7 +52,7 @@ public class Array {
         for (int i = 0; i < 2; i++) {
             for (j = 0; j < 2; j++) {
                 if (i < j) {
-                    sqArr[i][j] = 0;
+                    sqArr[i][j] = 1;
                 } else if (i > j) {
                     sqArr[i][j] = 1;
                 } else {
