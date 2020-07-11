@@ -1,3 +1,5 @@
+package ru.geekbrains.java.lesson5;
+
 import static java.lang.System.*;
 
 class Plate {
