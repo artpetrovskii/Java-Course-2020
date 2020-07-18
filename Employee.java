@@ -1,3 +1,5 @@
+package ru.geekbrains.java.lesson4;
+
 public class Employee {
     String name;
     String position;
