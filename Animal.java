@@ -1,3 +1,5 @@
+package ru.geekbrains.java.lesson4;
+
 class Animal {
     public String name;
     public int run;
