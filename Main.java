@@ -1,9 +1,9 @@
-package ru.geekbrains.java;
+package ru.geekbrains.java.lesson1;
 
 public class Main {
     // задание 1
     public static void main(String[] args) {
-    }
+        }
     // задание 2
     public void variables() {
         byte a = -37;
